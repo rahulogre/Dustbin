@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "643229127502",
+    "project_id": "firebase-dustbin"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643229127502:android:b843066804347a49",
+        "android_client_info": {
+          "package_name": "com.example.rahul.dustbin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643229127502-hdpoflqajc2humsp5pmrs9cubuh9u52d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahul.dustbin",
+            "certificate_hash": "b0439295a5a05c1fe7693f28b52f2fa3aeb8f516"
+          }
+        },
+        {
+          "client_id": "643229127502-dkttpoid7ip28qtt3bd5tafh405dr8n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzinoJPT3H-XMYnMUtDRnWKLZ1LIbytqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
